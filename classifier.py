@@ -7,8 +7,8 @@ from tqdm import tqdm
 
 '''Setting up the env'''
 
-TRAIN_DIR = 'E:/dataset/Cats_vs_Dogs/train'
-TEST_DIR = 'E:/dataset/Cats_vs_Dogs/test1'
+TRAIN_DIR = 'C:\Users\linhn\OneDrive - ualberta.ca\Documents\GitHub\image_classifier\dataset\train\train'
+TEST_DIR = 'C:\Users\linhn\OneDrive - ualberta.ca\Documents\GitHub\image_classifier\dataset\test\test1'
 IMG_SIZE = 50
 LR = 1e-3
 
